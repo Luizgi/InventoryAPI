@@ -1,5 +1,3 @@
-# Inventory Management System
-
 # Sistema de Gerenciamento de Inventário
 
 Este projeto é uma API para gerenciar produtos em um inventário, construída usando Spring Boot. A API permite criar, listar, buscar e excluir produtos.
